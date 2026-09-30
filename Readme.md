@@ -23,8 +23,8 @@ house_prediction_api/
 ├── main.py                       # FastAPI app with prediction endpoints
 ├── house_model.joblib            # Trained RandomForestRegressor (tracked via Git LFS)
 ├── house_features.joblib         # Saved feature column order
-├── house_prediction_inputs.xlsx  # Sample input file for batch predictions
-└── requirements.txt
+├── house_prediction_inputs.csv  # Sample input file for batch predictions
+└── Requirements.txt
 ```
 
 ## Setup
